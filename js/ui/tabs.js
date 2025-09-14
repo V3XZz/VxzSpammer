@@ -57,7 +57,6 @@ function initTabs() {
     });
 
     docsLink.addEventListener('click', (e) => {
-        e.preventDefault();
         platformOptions.forEach(opt => opt.classList.remove('active'));
         document.querySelector('.platform-option[data-platform="docs"]').classList.add('active');
         platformConfigs.forEach(config => config.classList.add('hidden'));
@@ -73,4 +72,5 @@ function initTabs() {
         document.querySelector('.tab[data-tab="logs"]').classList.add('active');
         document.getElementById('logs-tab').classList.add('active');
     });
+
 }

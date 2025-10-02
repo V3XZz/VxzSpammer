@@ -40,7 +40,7 @@ VxzSpammer is a sophisticated web-based messaging platform that enables seamless
 ### Installation & Usage
 ```bash
 # Clone or download the repository
-git clone https://github.com/your-username/vxzspammer.git
+git clone https://github.com/V3XZz/VxzSpammer
 
 # Navigate to project directory
 cd vxzspammer
@@ -80,14 +80,7 @@ const DISCORD_CONFIG = {
 };
 ```
 
-#### 🔥 NGL
-```javascript
-// NGL Anonymous Messaging
-const NGL_CONFIG = {
-  targetUsername: 'TARGET_USERNAME',
-  anonymousMode: true
-};
-```
+
 
 ## 📊 Monitoring & Analytics
 
@@ -120,7 +113,6 @@ graph TD
     A[User Interface] --> B[Platform Router]
     B --> C[Telegram Module]
     B --> D[Discord Module]
-    B --> E[NGL Module]
     C --> F[Request Engine]
     D --> F
     E --> F
@@ -154,9 +146,8 @@ Distributed under MIT License. See `LICENSE` for complete information.
 
 ## 📞 Support & Community
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/your-username/vxzspammer/issues)
-- 💬 **Discussions**: [Community Forum](https://github.com/your-username/vxzspammer/discussions)
-- 📧 **Contact**: [Email Support](mailto:support@vxzspammer.com)
+- 🐛 **Bug Reports**: [Whatsapp Support](https://wa.me/6285167495079)
+- 📧 **Contact**: [Telegram Support](https://t.me/V3XZz)
 
 ---
 

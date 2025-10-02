@@ -115,7 +115,6 @@ graph TD
     B --> D[Discord Module]
     C --> F[Request Engine]
     D --> F
-    E --> F
     F --> G[Analytics Dashboard]
 ```
 
